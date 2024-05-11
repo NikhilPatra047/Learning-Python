@@ -18,7 +18,7 @@ It has been 4 years (started 2021 when I was in college) since I started program
 
 During this time I learned about the different data types in Python, conditional statements, loops, match statements, certain **Pythonic** way of writing code in Python, Object Oriented Programming in Python (class, instances, decorators, static methods, class methods, abstract classes, inheritance, method overloading, method overriding, encapsulation, getters and setters methods, the convention used in Python for specifying private, protected, and public variables, etc.), Regular Expressions, Writing Unit Tests in Python using Pytest, use of libraries, Error and Exceptions.
 
-### What do I intend to do now?
+# What do I intend to do now?
 
 My focus right now is to hone in on the skills that I learned during this time by utilising what I have learned to practice algorithmic problems, and use the language to build projects. The primary motive behind doing this is truly allow my brain to cement the knowledge that I have gained and gain a certain level of grasp over the programming language.
 
